@@ -1,4 +1,4 @@
-## Maven plugin for global replace
+## Maven plugin for watermarks
 
 ### Installation
 
